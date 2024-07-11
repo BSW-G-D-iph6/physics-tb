@@ -1,6 +1,6 @@
 'use client'
 import { useRouter } from 'next/router'
-import iformula, { data } from "./../db";
+import iformula, { data } from "../../db";
 export default function Page() {
     const router = useRouter()
 
