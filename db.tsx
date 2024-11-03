@@ -354,6 +354,8 @@ export const data: idata = {
                 <>
                   This formula is used to find the Charge/voltage/energy transfered
                     <br />
+                    When an electrical charge goes through a change in voltage, then energy is transfered
+                    <br />
                     <br />
                     <h2>Units</h2>
                     <br />
@@ -364,12 +366,12 @@ export const data: idata = {
                     Current = A, Amps
                     <br />
                     Voltage = V, Volts
-
                     <br />
                     Time = Temporal Unit
                     <br />
+                    Energy transfered = J, Joules
                     <br />
-                    <h2>Formula - Q = I * T</h2>
+                    <h2>Formula - E = Q * V</h2>
 
                     <br/>
                     Q= Charge, 
